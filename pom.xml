@@ -91,6 +91,9 @@
 						</exclude>
 					</excludes>
 				</configuration>
+				<configuration>
+    <mainClass>your.package.name.Application</mainClass>
+</configuration>
 			</plugin>
 
 			<plugin>
